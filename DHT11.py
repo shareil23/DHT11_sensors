@@ -15,7 +15,7 @@ RCpin = 24  #light sensor di pin 24
 DHTpin = 23 #DHT sensor di pin 23
 
 #Setup API thingspeak
-myAPI = "HB7GDRSDYU5PUP0O"
+myAPI = "API KEYS"
 myDelay = 60 #waktu (detik) delay untuk mengirim data
 
 GPIO.setmode(GPIO.BCM)
